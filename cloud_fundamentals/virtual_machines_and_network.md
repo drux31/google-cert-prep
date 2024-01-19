@@ -1,6 +1,6 @@
-#### Virtual Machines and Network in the Cloud
+### Virtual Machines and Network in the Cloud
 
-##### Virtual Private Cloud (VPC) networking
+#### Virtual Private Cloud (VPC) networking
 Google defines a VPC as a secure, individual and private cloud-computing model hosted within a public cloud.
 The VPC is hosted remotely by a public cloud provider. VPC networks connect google cloud resources with each others and to the internet.
 
