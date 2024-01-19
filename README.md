@@ -12,4 +12,9 @@ The resources I used were mainly coursera and the [cloud skillboost](https://www
 * VPN : Virtual Private Network
 * DNS : Domain Name System ;
 * CDN : Content Delivery Network ;
-* IAM : Identity and Access Management
+* IAM : Identity and Access Management ;
+* ICMP : Internet Control Message Protocol ;
+* TCP : Transmission Control Protocol ;
+* IP : Internet Protocol ;
+* UDP : User Datagram Protocol ;
+* SSH :  Secure Socket Shell (or Secure Shell).
